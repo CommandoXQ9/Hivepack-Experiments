@@ -1,0 +1,17 @@
+{
+  "id": "Will\u0027s base_1783,69,2261",
+  "name": "Will\u0027s base",
+  "icon": "waypoint-normal.png",
+  "x": 1783,
+  "y": 69,
+  "z": 2261,
+  "r": 210,
+  "g": 232,
+  "b": 89,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

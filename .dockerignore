@@ -1,0 +1,21 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+
+#multiMC data
+patches
+instance.cfg
+minecraft/icon.png
+
+#installer files
+forge-*-installer.jar
+liteloader-installer-*.jar
+
+#Windows update script
+update.bat
+
+#client-only mod blacklist
+minecraft/mods/*DamageIndicatorsMod*
+minecraft/mods/*voxelMap*

@@ -1,0 +1,17 @@
+{
+  "id": "my base_13,95,359",
+  "name": "my base",
+  "icon": "waypoint-normal.png",
+  "x": 13,
+  "y": 95,
+  "z": 359,
+  "r": 183,
+  "g": 161,
+  "b": 67,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
